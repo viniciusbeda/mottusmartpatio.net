@@ -24,11 +24,3 @@ API desenvolvida com ASP.NET Core (Minimal API), utilizando EF Core para integra
 | DELETE | /motos/{id}            | Deleta moto               |
 
 ---
-
-## ⚙️ Instalação
-
-1. Clone o repositório:
-   ```bash
-   git clone <link-do-repositorio>
-   cd MottuSmartPatio
-   ```
