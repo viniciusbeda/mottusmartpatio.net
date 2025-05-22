@@ -1,0 +1,13 @@
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+.env
+*.db
+*.sqlite
+*.log
+appsettings.Development.json
+appsettings.Production.json
